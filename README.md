@@ -18,10 +18,10 @@
 
 ## ✨ Highlights
 
-* **Global Scale**: Comprising *593,335* UHR SAR-optical pairs (0.16–0.98 m resolution) spanning 319 cities across 78 countries and six continents.
-* **Precision Alignment**: Achieving rigorous spatial consistency through fine-grained manual registration, meeting the demands of precision cross-modal applications.
-* **Broad Generalizability**: Beyond *Multi-modal Remote Sensing Image Registration*, it serves as a robust benchmark for diverse downstream tasks: *Multi-modal Image Fusion* and *Foundation Model Pre-Training and Fine-tuning*.
-* **Robust Method**: Introducing a *frequency-guided hierarchical registration method*, validated across three benchmarks: the OS-Dataset, MSAW, and GUSO datasets.
+* 🌎**Global Scale**: Comprising `593,335` UHR SAR-optical image pairs (`0.16–0.98 m` resolution) spanning `319` cities across `78` countries and `six` continents.
+* 🎯**Precision Alignment**: Achieving rigorous spatial consistency through fine-grained manual registration, meeting the demands of precision cross-modal applications.
+* **Broad Generalizability**: Beyond `Multi-modal Remote Sensing Image Registration`, it serves as a robust benchmark for diverse downstream tasks: `Multi-modal Image Fusion` and `Foundation Model Pre-Training and Fine-tuning`.
+* **Robust Method**: Introducing a `frequency-guided hierarchical registration method`, validated across three benchmarks: the `OS-Dataset`, `MSAW`, and `GUSO datasets`.
 ---
 
 <p align="center">
@@ -42,13 +42,12 @@ If you use GUSO and FHReg in your research, please cite our paper.
 
 
 ## 🤝Acknowledgments
-The authors would like to thank [Capella Space](https://www.capellaspace.com/earth-observation/gallery), [ICEYE](https://www.iceye.com/resources/datasets), and [Umbra Space](https://umbra.space/open-data/) for making their valuable SAR data available through their respective open data initiatives. We also thank [BIGHT](https://github.com/ChenHongruixuan/BRIGHT/tree/master) for the provision of disaster labels.
+The authors would like to thank [ICEYE](https://www.iceye.com/resources/datasets), [Capella Space](https://www.capellaspace.com/earth-observation/gallery), and [Umbra Space](https://umbra.space/open-data/) for making their valuable SAR data available through their respective open data initiatives. We also thank [BIGHT](https://github.com/ChenHongruixuan/BRIGHT/tree/master) for the provision of disaster labels.
 
 
-## License
+## 🛠️License
 The owners of the data and of the copyright on the data are [RSIDEA](http://rsidea.whu.edu.cn/), Wuhan University.
-All images and their associated annotations in GUSO can be used for academic purposes only,
-<font color="red"><b> but any commercial use is prohibited.</b></font>
+All images in GUSO can be used for academic purposes only, <font color="red"><b> but any commercial use is prohibited.</b></font>
 
 ## 🙋Q & A
 ***For any questions, please [contact us.](mailto:yanheng0903@gmail.com)***
