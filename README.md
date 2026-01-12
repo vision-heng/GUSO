@@ -9,6 +9,8 @@
 
 <sup>a</sup> State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University
 
+</div>
+
 ## 🛎️Updates
 <!-- * **` Jan 13th, 2026`**: GUSO dataset and FHReg inference code are now online!! -->
 * **` Jan 13th, 2026`**: GUSO dataset and FHReg inference code are coming soon!
