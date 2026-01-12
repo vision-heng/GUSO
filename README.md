@@ -52,9 +52,9 @@ GUSO Dataset
 │    ├──hill-val.zip (1.04 GB)
 │    ├──hill-test.zip (1.13 GB)
 ├── Water
-│    ├──water-train.zip (1.48 GB)
+│    ├──water-train.zip (17.91 GB)
 │    ├──water-val.zip (2.24 GB)
-│    ├──water-test.zip (17.91 GB)
+│    ├──water-test.zip (1.48 GB)
 └── Disaster
      ├──disaster-test.zip (3.35 GB)
 ```
