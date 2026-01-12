@@ -69,7 +69,7 @@ If you use GUSO and FHReg in your research, please cite our paper.
 
 
 ## 🤝Acknowledgments
-The authors would like to thank [ICEYE](https://www.iceye.com/resources/datasets), [Capella Space](https://www.capellaspace.com/earth-observation/gallery), and [Umbra Space](https://umbra.space/open-data/) for making their valuable SAR data available through their respective open data initiatives. We also thank [BIGHT](https://github.com/ChenHongruixuan/BRIGHT/tree/master) for the provision of disaster labels.
+The authors would like to thank [ICEYE](https://www.iceye.com/resources/datasets), [Capella Space](https://www.capellaspace.com/earth-observation/gallery), and [Umbra Space](https://umbra.space/open-data/) for making their valuable SAR data available through their respective open data initiatives. We also thank [BRIGHT](https://github.com/ChenHongruixuan/BRIGHT/tree/master) for the provision of disaster labels.
 
 
 ## 🛠️License
