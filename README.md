@@ -12,7 +12,6 @@
 </div>
 
 ## 🛎️Updates
-<!-- * **` Jan 13th, 2026`**: GUSO dataset and FHReg inference code are now online!! -->
 * **` Jan 13th, 2026`**: GUSO dataset and FHReg inference code are coming soon!
 
 
@@ -20,8 +19,8 @@
 
 * 🌎**Global Scale**: Comprising `593,335` UHR SAR-optical image pairs (`0.16–0.98 m` resolution) spanning `319` cities across `78` countries and `six` continents.
 * 🎯**Precision Alignment**: Achieving rigorous spatial consistency through fine-grained manual registration, meeting the demands of precision cross-modal applications.
-* **Broad Generalizability**: Beyond `Multi-modal Remote Sensing Image Registration`, it serves as a robust benchmark for diverse downstream tasks: `Multi-modal Image Fusion` and `Foundation Model Pre-Training and Fine-tuning`.
-* **Robust Method**: Introducing a `frequency-guided hierarchical registration method`, validated across three benchmarks: the `OS-Dataset`, `MSAW`, and `GUSO datasets`.
+* 💎**Broad Generalizability**: Beyond `multi-modal remote sensing image registration`, it serves as a robust benchmark for diverse downstream tasks: `multi-modal image fusion` and `foundation model pre-training and fine-tuning`.
+* 💪**Robust Method**: Introducing a `frequency-guided hierarchical registration method`, validated across three benchmarks: the `OS-Dataset`, `MSAW`, and `GUSO datasets`.
 ---
 
 <p align="center">
@@ -32,8 +31,9 @@
 ## Data Download
 The GUSO dataset is released at [<b>Google Drive</b>]() (*coming soon!*). 
 
+Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP)
 ```
-${Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP)}  
+GUSO Dataset
 │
 ├── Urban
 │    ├──urban-train.zip (186.0 GB)
@@ -60,7 +60,6 @@ ${Note that the complete GUSO dataset is approximately **410 GB** (compressed ZI
 ```
 
 
-
 ## 📜Citation
 If you use GUSO and FHReg in your research, please cite our paper.
 ```text
@@ -77,5 +76,10 @@ The authors would like to thank [ICEYE](https://www.iceye.com/resources/datasets
 The owners of the data and of the copyright on the data are [RSIDEA](http://rsidea.whu.edu.cn/), Wuhan University.
 All images in GUSO can be used for academic purposes only, <font color="red"><b> but any commercial use is prohibited.</b></font>
 
+
 ## 🙋Q & A
 ***For any questions, please [contact us.](mailto:yanheng0903@gmail.com)***
+
+
+
+
