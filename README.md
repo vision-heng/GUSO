@@ -30,7 +30,35 @@
 
 
 ## Data Download
-The GUSO dataset is released at [<b>Google Drive</b>]() (coming soon!) Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP). 
+The GUSO dataset is released at [<b>Google Drive</b>]() (*coming soon!*). 
+
+```
+${Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP)}  
+│
+├── Urban
+│    ├──urban-train.zip (186.0 GB)
+│    ├──urban-val.zip (19.78 GB)
+│    ├──urban-test.zip (20.04 GB)
+├── Rural
+│    ├──rural-train.zip (74.22 GB)
+│    ├──rural-val.zip (2.93 GB)
+│    ├──rural-test.zip (4.65 GB)
+│── Plain
+│    ├──plain-train.zip (46.73 GB)
+│    ├──plain-val.zip (7.76 GB)
+│    ├──plain-test.zip (7.34 GB)
+├── Hill
+│    ├──hill-train.zip (16.19 GB)
+│    ├──hill-val.zip (1.04 GB)
+│    ├──hill-test.zip (1.13 GB)
+├── Water
+│    ├──water-train.zip (1.48 GB)
+│    ├──water-val.zip (2.24 GB)
+│    ├──water-test.zip (17.91 GB)
+└── Disaster
+     ├──disaster-test.zip (3.35 GB)
+```
+
 
 
 ## 📜Citation
