@@ -5,7 +5,7 @@
 <h3>Ultra-high-Resolution SAR and Optical Image Registration: From Global Benchmark Dataset to Frequency-Guided Registration Method</h3>
 
 
-[Heng Yan](https://scholar.google.ch/citations?user=XOk4Cf0AAAAJ&hl=zh-CN&oi=ao)<sup>a</sup>, [Ailong Ma](https://scholar.google.com/citations?user=GPjZ_2gAAAAJ&hl=en)<sup>a *</sup>, [Hong Shu]<sup>a</sup>, [Yuting Wan](https://scholar.google.com/citations?user=BkQSQ6wAAAAJ&hl=en)<sup>a</sup>, [Liangpei Zhang](https://scholar.google.com/citations?user=yFEl8hcAAAAJ&hl=en)<sup>a</sup>, [Yanfei Zhong](https://scholar.google.com/citations?user=Fm7XZ5AAAAAJ&hl=en)<sup>a</sup>  
+[Heng Yan](https://scholar.google.ch/citations?user=XOk4Cf0AAAAJ&hl=zh-CN&oi=ao)<sup>a</sup>, [Ailong Ma](https://scholar.google.com/citations?user=GPjZ_2gAAAAJ&hl=en)<sup>a *</sup>, Hong Shu<sup>a</sup>, [Yuting Wan](https://scholar.google.com/citations?user=BkQSQ6wAAAAJ&hl=en)<sup>a</sup>, [Liangpei Zhang](https://scholar.google.com/citations?user=yFEl8hcAAAAJ&hl=en)<sup>a</sup>, [Yanfei Zhong](https://scholar.google.com/citations?user=Fm7XZ5AAAAAJ&hl=en)<sup>a</sup>  
 
 <sup>a</sup> State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University
 
@@ -30,7 +30,7 @@
 
 
 ## Data Download
-The GUSO dataset is released at [<b>Google Drive</b>]()
+The GUSO dataset is released at [<b>Google Drive</b>]() (coming soon!)
 
 
 ## 📜Citation
@@ -44,6 +44,11 @@ If you use GUSO and FHReg in your research, please cite our paper.
 ## 🤝Acknowledgments
 The authors would like to thank [Capella Space](https://www.capellaspace.com/earth-observation/gallery), [ICEYE](https://www.iceye.com/resources/datasets), and [Umbra Space](https://umbra.space/open-data/) for making their valuable SAR data available through their respective open data initiatives. We also thank [BIGHT](https://github.com/ChenHongruixuan/BRIGHT/tree/master) for the provision of disaster labels.
 
+
+## License
+The owners of the data and of the copyright on the data are [RSIDEA](http://rsidea.whu.edu.cn/), Wuhan University.
+All images and their associated annotations in GUSO can be used for academic purposes only,
+<font color="red"><b> but any commercial use is prohibited.</b></font>
 
 ## 🙋Q & A
 ***For any questions, please [contact us.](mailto:yanheng0903@gmail.com)***
