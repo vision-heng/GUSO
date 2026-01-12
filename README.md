@@ -18,14 +18,14 @@
 
 ## ✨ Highlights
 
-* **Global Scale**: Comprising **593,335** UHR SAR-optical pairs (0.16–0.98 m resolution) spanning 319 cities across 78 countries and six continents.
+* **Global Scale**: Comprising *593,335* UHR SAR-optical pairs (0.16–0.98 m resolution) spanning 319 cities across 78 countries and six continents.
 * **Precision Alignment**: Achieving rigorous spatial consistency through fine-grained manual registration, meeting the demands of precision cross-modal applications.
-* **Broad Generalizability**: Beyond **Multi-modal Remote Sensing Image Registration**, it serves as a robust benchmark for diverse downstream tasks: **Multi-modal Image Fusion** and **Foundation Model Pre-Training and Fine-tuning**.
-* **Robust Method**: Introducing a **frequency-guided hierarchical registration method**, validated across three benchmarks: the OS-Dataset, MSAW, and GUSO datasets.
+* **Broad Generalizability**: Beyond *Multi-modal Remote Sensing Image Registration*, it serves as a robust benchmark for diverse downstream tasks: *Multi-modal Image Fusion* and *Foundation Model Pre-Training and Fine-tuning*.
+* **Robust Method**: Introducing a *frequency-guided hierarchical registration method*, validated across three benchmarks: the OS-Dataset, MSAW, and GUSO datasets.
 ---
 
 <p align="center">
-  <img src="./figure/overall.jpg" alt="accuracy" width="97%">
+  <img src="./figure/overall.png" alt="Overall of GUSO Dataset" width="97%">
 </p>
 
 
