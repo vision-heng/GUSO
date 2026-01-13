@@ -29,7 +29,7 @@
 
 
 ## Data Download
-The GUSO dataset is released at [<b>Google Drive</b>]() (*coming soon!*). 
+To download the dataset, please fill out this [Request Form]() (*coming soon!*). The download link will be shown after submission.
 
 Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP)
 ```
