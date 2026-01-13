@@ -30,7 +30,7 @@
 
 ## Data Download
 * To download the dataset, please fill out this [Request Form]() (*coming soon!*). The download link will be shown after submission.
-*Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP).
+* Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP).
 ```
 GUSO Dataset
 │
