@@ -12,7 +12,7 @@
 </div>
 
 ## 🛎️Updates
-* **` Jan 13th, 2026`**: GUSO dataset and FHReg inference code are coming soon!
+* **` Jan 13th, 2026`**: GUSO dataset and FHReg inference demo are coming soon!
 
 
 ## ✨ Highlights
