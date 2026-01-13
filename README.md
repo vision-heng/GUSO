@@ -36,7 +36,7 @@ Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP)
 GUSO Dataset
 │
 ├── Urban
-│    ├──urban-train.zip (186.0 GB)
+│    ├──urban-train.zip (186.66 GB)
 │    ├──urban-val.zip (19.78 GB)
 │    ├──urban-test.zip (20.04 GB)
 ├── Rural
