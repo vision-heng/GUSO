@@ -29,7 +29,7 @@
 
 
 ## Data Download
-* To download the dataset, please fill out this [Request Form]() (*coming soon!*). The download link will be shown after submission.
+* To download the dataset, please fill out this [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdCM2RUllOLOzTVKYcnxwTH9VrQrxtIXhG-YLLciy0reDmSqg/viewform?usp=publish-editor). The download link will be shown after submission.
 * Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP).
 ```
 GUSO Dataset
@@ -58,7 +58,10 @@ GUSO Dataset
      ├──disaster-test.zip (3.35 GB)
 ```
 
+## Weight Download
+* To download the GUSO-based FHReg model weight, please click this [weight link](https://drive.google.com/drive/folders/1T1Ic0uxSIBx_qdQJQEV68jzGlwBFR3TU?usp=drive_link). These weights can be used for zero-shot cross-domain testing on the [OSdataset](come soon!) and [MSAW](come soon!) datasets.
 
+  
 ## 📜Citation
 If you use GUSO and FHReg in your research, please cite our paper.
 ```text
