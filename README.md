@@ -60,7 +60,7 @@ GUSO Dataset
 ```
 
 ## 📥 Weight Download
-* The GUSO-based FHReg pre-trained weight is available for download via this [link](https://drive.google.com/drive/folders/1T1Ic0uxSIBx_qdQJQEV68jzGlwBFR3TU?usp=drive_link). This pre-trained weight enables zero-shot cross-domain evaluation on the [OSdataset](https://drive.google.com/file/d/16xUHXHJceL-c-lWBFiZ--88fbBc-WW8h/view?usp=drive_link) and [MSAW]() datasets.
+* The GUSO-based FHReg pre-trained weight is available for download via this [link](https://drive.google.com/drive/folders/1T1Ic0uxSIBx_qdQJQEV68jzGlwBFR3TU?usp=drive_link). This pre-trained weight enables zero-shot cross-domain evaluation on the [OSdataset](https://drive.google.com/file/d/16xUHXHJceL-c-lWBFiZ--88fbBc-WW8h/view?usp=drive_link) and [MSAW](https://drive.google.com/file/d/1yKGNJIuUicwMpoPUReGlwu-acUODWOj5/view?usp=drive_link) datasets.
 
   
 ## 📜Citation
