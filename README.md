@@ -12,7 +12,8 @@
 </div>
 
 ## 🛎️Updates
-* **` Jan 13th, 2026`**: GUSO dataset and FHReg inference demo are coming soon!
+* **` Jan 30th, 2026`**: The GUSO dataset, FHReg pre-trained weight, and test demo have been released!
+* **` Jan 13th, 2026`**: GUSO dataset and FHReg test demo are coming soon!
 
 
 ## ✨ Highlights
