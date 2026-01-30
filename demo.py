@@ -89,15 +89,6 @@ def draw_matches(img0, img1, kp0, kp1, path, color='green'):
     plt.close()
 
 
-def adjust_gamma(image, gamma=1.0):
-    """
-    Apply gamma correction to enhance image visibility
-    """
-    inv_gamma = 1 / gamma
-    brighter_image = np.array(np.power((image / 255), inv_gamma) * 255, dtype=np.uint8)
-    return brighter_image
-
-
 def read_image_rasterio(path):
     """
     Read satellite/remote sensing imagery using Rasterio.
