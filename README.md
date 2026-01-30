@@ -60,7 +60,7 @@ GUSO Dataset
 ```
 
 ## Weight Download
-* To download the GUSO-based FHReg model weight, please click this [weight link](https://drive.google.com/drive/folders/1T1Ic0uxSIBx_qdQJQEV68jzGlwBFR3TU?usp=drive_link). These weights can be used for zero-shot cross-domain testing on the [OSdataset](come soon!) and [MSAW](come soon!) datasets.
+* The GUSO-based FHReg pre-trained weight is available for download via this [weight link](https://drive.google.com/drive/folders/1T1Ic0uxSIBx_qdQJQEV68jzGlwBFR3TU?usp=drive_link). These weights can be used for zero-shot cross-domain testing on the [OSdataset](come soon!) and [MSAW](come soon!) datasets.
 
   
 ## 📜Citation
