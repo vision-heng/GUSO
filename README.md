@@ -21,7 +21,7 @@
 * 🌎**Global Scale**: Comprising `593,335` UHR SAR-optical image pairs (`0.16–0.98 m` resolution) spanning `319` cities across `78` countries and `six` continents.
 * 🎯**Precision Alignment**: Achieving rigorous spatial consistency through fine-grained manual registration, meeting the demands of precision cross-modal applications.
 * 💎**Broad Generalizability**: Beyond `multi-modal remote sensing image registration`, it serves as a robust benchmark for diverse downstream tasks: `multi-modal image fusion` and `foundation model pre-training and fine-tuning`.
-* 💪**Robust Method**: Introducing a `frequency-guided hierarchical registration method`, validated across three benchmarks: the `OS-Dataset`, `MSAW`, and `GUSO datasets`.
+* 💪**Robust Method**: Introducing a `frequency-guided hierarchical registration method`, validated across three benchmarks: the `OSdataset`, `MSAW`, and `GUSO datasets`.
 ---
 
 <p align="center">
