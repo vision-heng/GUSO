@@ -79,7 +79,7 @@ The authors would like to thank [ICEYE](https://www.iceye.com/resources/datasets
 The copyright belongs to Intelligent Data Extraction, Analysis and Applications of Remote Sensing ([RSIDEA](http://rsidea.whu.edu.cn/)) academic research group, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. The GUSO dataset can be used for academic purposes only and need to cite the following paper, <font color="red"><b> but any commercial use is prohibited.</b></font> Otherwise, RSIDEA of Wuhan University reserves the right to pursue legal responsibility.
 
 ## 🙋Q & A
-***For any questions, please [contact us.](mailto:yanheng0903@gmail.com)***
+***For any questions, please [contact us](mailto:yanheng0903@gmail.com) at **yanheng0903@gmail.com**.***
 
 
 
