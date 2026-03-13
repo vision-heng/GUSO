@@ -74,7 +74,7 @@ If you use GUSO and FHReg in your research, please cite our paper.
     PAGES = {190-210},
     VOLUME = {235},
     YEAR = {2026},
-    DOI = {[10.5194/essd-17-6217-2025](https://doi.org/10.1016/j.isprsjprs.2026.03.010)}
+    DOI = {[10.1016/j.isprsjprs.2026.03.010]}
 }
     
 ```
