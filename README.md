@@ -12,7 +12,7 @@
 </div>
 
 ## 🛎️Updates
-* **` Mar 09th, 2026`**: Our Researcher paper has been accepted by `ISPRS Journal of Photogrammetry and Remote Sensing` and [online available](https://www.sciencedirect.com/science/article/pii/S0924271626001243) now!
+* **` Mar 09th, 2026`**: Our Researcher paper has been accepted by *ISPRS Journal of Photogrammetry and Remote Sensing* and [online available](https://www.sciencedirect.com/science/article/pii/S0924271626001243) now!
 * **` Jan 30th, 2026`**: GUSO dataset, FHReg pre-trained weight, and test demo have been released!
 * **` Jan 13th, 2026`**: GUSO dataset and FHReg test demo are coming soon!
 
@@ -67,7 +67,15 @@ GUSO Dataset
 ## 📜Citation
 If you use GUSO and FHReg in your research, please cite our paper.
 ```text
-    Ultra-high-Resolution SAR and Optical Image Registration: From Global Benchmark Dataset to Frequency-Guided Registration Method, Under Review.
+   @Article{Chen2025Bright,
+    AUTHOR = {Heng Yan and Ailong Ma and Hong Shu and Yuting Wan and Liangpei Zhang and Yanfei Zhong},
+    TITLE = {Ultra-high-resolution SAR and optical image registration: From global benchmark dataset to frequency-guided registration method},
+    JOURNAL = {ISPRS Journal of Photogrammetry and Remote Sensing},
+    PAGES = {190-210},
+    VOLUME = {235},
+    YEAR = {2026},
+    DOI = {[10.5194/essd-17-6217-2025](https://doi.org/10.1016/j.isprsjprs.2026.03.010)}
+}
     
 ```
 
