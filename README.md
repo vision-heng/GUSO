@@ -67,7 +67,7 @@ GUSO Dataset
 ## 📜Citation
 If you use GUSO and FHReg in your research, please cite our paper.
 ```text
-   @Article{Chen2025Bright,
+   @Article{YAN2026GUSOFHReg,
     AUTHOR = {Heng Yan and Ailong Ma and Hong Shu and Yuting Wan and Liangpei Zhang and Yanfei Zhong},
     TITLE = {Ultra-high-resolution SAR and optical image registration: From global benchmark dataset to frequency-guided registration method},
     JOURNAL = {ISPRS Journal of Photogrammetry and Remote Sensing},
