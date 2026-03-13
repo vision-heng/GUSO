@@ -12,7 +12,7 @@
 </div>
 
 ## 🛎️Updates
-* **` Mar 09th, 2026`**: Our Researcher paper has been accepted by [ISPRS Journal of Photogrammetry and Remote Sensing and online available](https://www.sciencedirect.com/science/article/pii/S0924271626001243) now!
+* **` Mar 09th, 2026`**: Our Researcher paper has been accepted by `ISPRS Journal of Photogrammetry and Remote Sensing` and [online available](https://www.sciencedirect.com/science/article/pii/S0924271626001243) now!
 * **` Jan 30th, 2026`**: GUSO dataset, FHReg pre-trained weight, and test demo have been released!
 * **` Jan 13th, 2026`**: GUSO dataset and FHReg test demo are coming soon!
 
