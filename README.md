@@ -32,7 +32,7 @@
 
 ## 📥 Data Download
 * To download the dataset, please fill out this [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdCM2RUllOLOzTVKYcnxwTH9VrQrxtIXhG-YLLciy0reDmSqg/viewform?usp=publish-editor). 
-* Note that links to the five general scene datasets will appear immediately after form submission.
+* Note that the download link to the five general scene datasets will appear immediately after form submission.
 ```
 GUSO Dataset
 │
