@@ -31,8 +31,8 @@
 
 
 ## 📥 Data Download
-* To download the dataset, please fill out this [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdCM2RUllOLOzTVKYcnxwTH9VrQrxtIXhG-YLLciy0reDmSqg/viewform?usp=publish-editor). The download link will be shown after submission.
-* Note that the complete GUSO dataset is approximately **410 GB** (compressed ZIP).
+* To download the dataset, please fill out this [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdCM2RUllOLOzTVKYcnxwTH9VrQrxtIXhG-YLLciy0reDmSqg/viewform?usp=publish-editor). 
+* Note that links to the five general scene datasets will appear immediately after form submission.
 ```
 GUSO Dataset
 │
