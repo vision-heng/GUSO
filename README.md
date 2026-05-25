@@ -12,6 +12,7 @@
 </div>
 
 ## 🛎️Updates
+* **` May 25th, 2026`**: Baidu Netdisk support has been added to facilitate easier access for researchers in China. Both Google Drive and Baidu Netdisk links will be available after form submission!
 * **` Mar 09th, 2026`**: Our Researcher paper has been accepted by ***ISPRS Journal of Photogrammetry and Remote Sensing*** and [online available](https://www.sciencedirect.com/science/article/pii/S0924271626001243) now!
 * **` Jan 30th, 2026`**: GUSO dataset, FHReg pre-trained weight, and test demo have been released!
 * **` Jan 13th, 2026`**: GUSO dataset and FHReg test demo are coming soon!
@@ -32,7 +33,7 @@
 
 ## 📥 Data Download
 * To download the dataset, please fill out this [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdCM2RUllOLOzTVKYcnxwTH9VrQrxtIXhG-YLLciy0reDmSqg/viewform?usp=publish-editor). 
-* Note: A download link for the five general scene datasets will be shown immediately after submission.
+* Note: Download links (Google Drive and Baidu Netdisk) for the five general scene datasets will be shown immediately after submission.
 ```
 GUSO Dataset
 │
